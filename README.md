@@ -24,12 +24,11 @@ PDF баримтад токеноор гарын үсэг зурах, PDF-ийн
 
 `.msi` суулгаж чадахгүй компьютерт `windows-…zip` файлыг татаад задлаж, доторх `EGereeSignClient.exe`-г шууд ажиллуулж болно.
 
-## Анх нээх үед анхааруулга гарна
+## Анх нээх үед
 
-Багц Apple болон Microsoft-ын кодын гарын үсэггүй тул анх нээхэд систем анхааруулна. Энэ нь зөвхөн анх удаа.
+**Mac:** `.pkg` болон апп нь Apple-ийн Developer ID-аар гарын үсэгтэй, Apple-ээр шалгагдсан (notarize) тул Mac тэдгээрийг анхааруулгагүйгээр нээнэ.
 
-- **macOS:** `.pkg`-ийг анх нээхэд macOS «нээж чадахгүй» гэж анхааруулбал «Done» дараад System Settings → Privacy & Security хэсгээс «Open Anyway» дарж, нууц үгээ оруулна. «EGereeSignClient cannot be opened…» гэвэл апп дээр баруун товч дарж «Нээх» (Open) сонгоно. Хэрэв «Нээх» гарахгүй бол System Settings → Privacy & Security хэсгээс «Open Anyway» дарна.
-- **Windows:** «Windows protected your PC» гэвэл «More info» → «Run anyway» дарна.
+**Windows:** багц Microsoft-ын кодын гарын үсэггүй тул анх нээхэд Windows «Windows protected your PC» гэж анхааруулна. Тэгвэл «More info» → «Run anyway» дарна. Энэ анхааруулга зөвхөн анх удаа гарна.
 
 ## Шинэ хувилбар
 
