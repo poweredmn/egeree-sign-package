@@ -8,9 +8,9 @@ PDF баримтад токеноор гарын үсэг зурах, PDF-ийн
 
 | Компьютер | Татах файл |
 |---|---|
-| Mac, Apple Silicon (M1, M2, M3, M4) | `EGereeSignClient-<дугаар>-macos-arm64.pkg` |
-| Mac, Intel | `EGereeSignClient-<дугаар>-macos-x64.pkg` |
-| Windows 10/11 | `EGereeSignClient-<дугаар>-windows-x86.msi` |
+| Mac, Apple Silicon (M1, M2, M3, M4) | `EGereeSignClient-macos-arm64.pkg` |
+| Mac, Intel | `EGereeSignClient-macos-x64.pkg` |
+| Windows 10/11 | `EGereeSignClient-windows-x86.msi` |
 
 Хэрэв Mac-аа мэдэхгүй бол Apple меню → «About This Mac» дотор «Chip: Apple M…» гэвэл Apple Silicon, «Processor: Intel…» гэвэл Intel.
 
